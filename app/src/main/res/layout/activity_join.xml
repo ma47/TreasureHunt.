@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:focusableInTouchMode="true"
+    android:id="@+id/activity_join"
+    tools:context="com.example.team9.treasurehunt.JoinActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/road_no_copyr"
+        android:scaleType = "centerCrop"
+        android:layout_centerInParent="true"/>
+    
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo"
+        android:id="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/nametxt"
+        android:layout_alignStart="@+id/nametxt"
+        android:layout_marginTop="23dp"
+        android:layout_alignRight="@+id/nametxt"
+        android:layout_alignEnd="@+id/nametxt" />
+
+
+        <EditText
+            android:id="@+id/nametxt"
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:layout_above="@+id/teamCodetxt"
+            android:layout_alignLeft="@+id/teamCodetxt"
+            android:layout_alignStart="@+id/teamCodetxt"
+            android:background="@drawable/edit_text_name"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:selectAllOnFocus="true"
+            android:hint="Name"
+            android:textColorHint="@drawable/selector"
+            android:drawableLeft="@drawable/ic_person_black_24dp"
+            android:drawableStart="@drawable/ic_person_black_24dp"
+            android:drawablePadding="8dp"
+            android:textAlignment="viewStart"
+            android:layout_gravity="start"
+            android:paddingStart="12dp"
+            android:paddingLeft="12dp"/>
+
+    <View
+        android:layout_width="wrap_content"
+        android:id="@+id/lineLogin"
+        android:layout_height="1dp"
+        android:layout_alignEnd="@+id/nametxt"
+        android:layout_alignLeft="@+id/nametxt"
+        android:layout_alignParentBottom="false"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentTop="false"
+        android:layout_alignRight="@+id/nametxt"
+        android:layout_alignStart="@+id/nametxt"
+        android:layout_alignWithParentIfMissing="false"
+        android:layout_below="@id/nametxt"
+        android:background="#d9e2dd" />
+
+        <EditText
+            android:id="@+id/teamCodetxt"
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/edit_text_round"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:selectAllOnFocus="true"
+            android:hint="Team Code"
+            android:textAlignment="viewStart"
+            android:layout_gravity="start"
+            android:paddingLeft="12dp"
+            android:paddingStart="12dp"
+            android:drawableLeft="@drawable/ic_lock_outline_black_24dp"
+            android:drawableStart="@drawable/ic_lock_outline_black_24dp"
+            android:drawablePadding="8dp"
+            android:textColorHint="@drawable/selector"/>
+
+    <Button
+        android:text="Join"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/join"
+        android:layout_marginTop="20dp"
+        android:bottomRightRadius="8dp"
+        android:bottomLeftRadius="8dp"
+        android:topRightRadius="8dp"
+        android:topLeftRadius="8dp"
+        android:backgroundTint="#51d686"
+        android:layout_below="@+id/teamCodetxt"
+        android:textAllCaps="false"
+        android:layout_alignRight="@+id/teamCodetxt"
+        android:layout_alignEnd="@+id/teamCodetxt"
+        android:layout_alignLeft="@+id/teamCodetxt"
+        android:layout_alignStart="@+id/teamCodetxt" />
+
+</RelativeLayout>
+

@@ -1,0 +1,71 @@
+<!-- Authors: Tolu Awosanya,
+
+-->
+<resources>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">Looksy</string>
+    <string name="about_us">About us</string>
+    <string name="contact_us">Contact us</string>
+    <string name="settings">Settings</string>
+    <string name="feedback">Feedback</string>
+
+    <!-- String resources for the navigation -->
+    <string name="title_scanner">Qr Scanner</string>
+    <string name="title_clue">Clues</string>
+    <string name="title_more">More</string>
+    <string name="title_map">Map</string>
+    <string name="title_leaderboard">Leaderboard</string>
+    <string name="title_home">Main activity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_starting">StartingActivity</string>
+
+
+    <!-- feedback form questions-->
+    <string name="question_1">GENDER</string>
+    <string name="question_2">What category below includes your age?</string>
+    <string name="question_3">Overall how you found the treasure hunt?</string>
+    <string name="question_4">Was this your first time participating in the treasure hunt?</string>
+    <string name="question_5">The app was visually appealing.</string>
+    <string name="question_6">It was easy to understand information on the app.</string>
+    <string name="question_7">The navigation of the app was good.</string>
+    <string name="question_8">I would use the app again.</string>
+    <string name="question_9">The information given to the participants before the treasure hunt was enough to carry out the treasure hunt.</string>
+    <string name="question_10">The difficulty level of the clues provided were appropriate.</string>
+    <string name="question_11">I would recommend the app to others.</string>
+    <string name="question_12">Once you arrived at the location of the clue it was easy to spot the QR code.</string>
+    <string name="question_13">How could the hunt be improved?</string>
+    <string name="question_14">How could the app be improved? </string>
+
+    <!-- gender options-->
+    <string-array name="gender_options">
+        <item name = "i_prefer_not_to_disclose">I prefer not to disclose</item>
+        <item name = "male">Male</item>
+        <item name = "female">Female</item>
+        <item name = "other">Other</item>
+    </string-array>
+
+    <!-- age options-->
+    <string-array name="age_options">
+        <item name = "17_and_below">17 and below</item>
+        <item name = "18-20">18-20</item>
+        <item name = "21-29">21-29</item>
+        <item name = "30-39">30-39</item>
+        <item name = "40_and_older">40 and older</item>
+    </string-array>
+
+    <!-- general 1-5 options-->
+    <string-array name="general_options">
+        <item name = "1">1</item>
+        <item name = "2">2</item>
+        <item name = "3">3</item>
+        <item name = "4">4</item>
+        <item name = "5">5</item>
+    </string-array>
+
+    <!-- yes or no options-->
+    <string-array name="yes_no_options">
+        <item name = "yes">Yes</item>
+        <item name = "no">No</item>
+    </string-array>
+
+</resources>

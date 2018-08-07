@@ -1,0 +1,615 @@
+{
+  "id": 5,
+  "name": "App Test Hunt",
+  "is_started": 1,
+  "is_finished": 0,
+  "start_time": "2017-04-30 11:15:34",
+  "finish_time": null,
+  "organiser_id": 2,
+  "treasure_hunt_template_id": 4,
+  "teams": [
+    {
+      "id": 23,
+      "current_treasure_index": 0,
+      "name": "team 01",
+      "score": 0,
+      "public_team_code": "wyWt",
+      "max_players": 99,
+      "active_treasure_hunt_id": 5,
+      "players": [],
+      "collectable_treasures": [
+        {
+          "team_id": 23,
+          "clue": " Claremont Tower",
+          "latitude": 54.980411,
+          "longitude": -1.614446,
+          "has_been_found": 0,
+          "order": 0,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "SbUyGsQcyRKKZhIOG4xI0vFC"
+        },
+        {
+          "team_id": 23,
+          "clue": "Library",
+          "latitude": 54.981112,
+          "longitude": -1.611618,
+          "has_been_found": 0,
+          "order": 1,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "kRjBr7CD7XDEgQ1i6LfH4b5D"
+        },
+        {
+          "team_id": 23,
+          "clue": "Students Union",
+          "latitude": 54.978969,
+          "longitude": -1.61491,
+          "has_been_found": 0,
+          "order": 2,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "HPIQAdfwypM6PiiUVA3nFih7"
+        },
+        {
+          "team_id": 23,
+          "clue": "Armstrong Building",
+          "latitude": 54.979754,
+          "longitude": -1.616625,
+          "has_been_found": 0,
+          "order": 3,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "nPWntiteAo22BxPrCeyU9sEx"
+        },
+        {
+          "team_id": 23,
+          "clue": "The Rack",
+          "latitude": 54.980327,
+          "longitude": -1.614329,
+          "has_been_found": 0,
+          "order": 4,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "WCnARtHI0PnWSM8ZtwydlzdE"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "current_treasure_index": 0,
+      "name": "team 02",
+      "score": 0,
+      "public_team_code": "ghRp",
+      "max_players": 99,
+      "active_treasure_hunt_id": 5,
+      "players": [],
+      "collectable_treasures": [
+        {
+          "team_id": 24,
+          "clue": " Claremont Tower",
+          "latitude": 54.980411,
+          "longitude": -1.614446,
+          "has_been_found": 0,
+          "order": 0,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "SbUyGsQcyRKKZhIOG4xI0vFC"
+        },
+        {
+          "team_id": 24,
+          "clue": "Library",
+          "latitude": 54.981112,
+          "longitude": -1.611618,
+          "has_been_found": 0,
+          "order": 1,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "kRjBr7CD7XDEgQ1i6LfH4b5D"
+        },
+        {
+          "team_id": 24,
+          "clue": "Students Union",
+          "latitude": 54.978969,
+          "longitude": -1.61491,
+          "has_been_found": 0,
+          "order": 2,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "HPIQAdfwypM6PiiUVA3nFih7"
+        },
+        {
+          "team_id": 24,
+          "clue": "Armstrong Building",
+          "latitude": 54.979754,
+          "longitude": -1.616625,
+          "has_been_found": 0,
+          "order": 3,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "nPWntiteAo22BxPrCeyU9sEx"
+        },
+        {
+          "team_id": 24,
+          "clue": "The Rack",
+          "latitude": 54.980327,
+          "longitude": -1.614329,
+          "has_been_found": 0,
+          "order": 4,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "WCnARtHI0PnWSM8ZtwydlzdE"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "current_treasure_index": 0,
+      "name": "team 03",
+      "score": 0,
+      "public_team_code": "RG91",
+      "max_players": 99,
+      "active_treasure_hunt_id": 5,
+      "players": [],
+      "collectable_treasures": [
+        {
+          "team_id": 25,
+          "clue": " Claremont Tower",
+          "latitude": 54.980411,
+          "longitude": -1.614446,
+          "has_been_found": 0,
+          "order": 0,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "SbUyGsQcyRKKZhIOG4xI0vFC"
+        },
+        {
+          "team_id": 25,
+          "clue": "Library",
+          "latitude": 54.981112,
+          "longitude": -1.611618,
+          "has_been_found": 0,
+          "order": 1,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "kRjBr7CD7XDEgQ1i6LfH4b5D"
+        },
+        {
+          "team_id": 25,
+          "clue": "Students Union",
+          "latitude": 54.978969,
+          "longitude": -1.61491,
+          "has_been_found": 0,
+          "order": 2,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "HPIQAdfwypM6PiiUVA3nFih7"
+        },
+        {
+          "team_id": 25,
+          "clue": "Armstrong Building",
+          "latitude": 54.979754,
+          "longitude": -1.616625,
+          "has_been_found": 0,
+          "order": 3,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "nPWntiteAo22BxPrCeyU9sEx"
+        },
+        {
+          "team_id": 25,
+          "clue": "The Rack",
+          "latitude": 54.980327,
+          "longitude": -1.614329,
+          "has_been_found": 0,
+          "order": 4,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "WCnARtHI0PnWSM8ZtwydlzdE"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "current_treasure_index": 0,
+      "name": "team 04",
+      "score": 0,
+      "public_team_code": "ZkTZ",
+      "max_players": 99,
+      "active_treasure_hunt_id": 5,
+      "players": [],
+      "collectable_treasures": [
+        {
+          "team_id": 26,
+          "clue": " Claremont Tower",
+          "latitude": 54.980411,
+          "longitude": -1.614446,
+          "has_been_found": 0,
+          "order": 0,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "SbUyGsQcyRKKZhIOG4xI0vFC"
+        },
+        {
+          "team_id": 26,
+          "clue": "Library",
+          "latitude": 54.981112,
+          "longitude": -1.611618,
+          "has_been_found": 0,
+          "order": 1,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "kRjBr7CD7XDEgQ1i6LfH4b5D"
+        },
+        {
+          "team_id": 26,
+          "clue": "Students Union",
+          "latitude": 54.978969,
+          "longitude": -1.61491,
+          "has_been_found": 0,
+          "order": 2,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "HPIQAdfwypM6PiiUVA3nFih7"
+        },
+        {
+          "team_id": 26,
+          "clue": "Armstrong Building",
+          "latitude": 54.979754,
+          "longitude": -1.616625,
+          "has_been_found": 0,
+          "order": 3,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "nPWntiteAo22BxPrCeyU9sEx"
+        },
+        {
+          "team_id": 26,
+          "clue": "The Rack",
+          "latitude": 54.980327,
+          "longitude": -1.614329,
+          "has_been_found": 0,
+          "order": 4,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "WCnARtHI0PnWSM8ZtwydlzdE"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "current_treasure_index": 0,
+      "name": "team 05",
+      "score": 0,
+      "public_team_code": "N8Nf",
+      "max_players": 99,
+      "active_treasure_hunt_id": 5,
+      "players": [],
+      "collectable_treasures": [
+        {
+          "team_id": 27,
+          "clue": " Claremont Tower",
+          "latitude": 54.980411,
+          "longitude": -1.614446,
+          "has_been_found": 0,
+          "order": 0,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "SbUyGsQcyRKKZhIOG4xI0vFC"
+        },
+        {
+          "team_id": 27,
+          "clue": "Library",
+          "latitude": 54.981112,
+          "longitude": -1.611618,
+          "has_been_found": 0,
+          "order": 1,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "kRjBr7CD7XDEgQ1i6LfH4b5D"
+        },
+        {
+          "team_id": 27,
+          "clue": "Students Union",
+          "latitude": 54.978969,
+          "longitude": -1.61491,
+          "has_been_found": 0,
+          "order": 2,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "HPIQAdfwypM6PiiUVA3nFih7"
+        },
+        {
+          "team_id": 27,
+          "clue": "Armstrong Building",
+          "latitude": 54.979754,
+          "longitude": -1.616625,
+          "has_been_found": 0,
+          "order": 3,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "nPWntiteAo22BxPrCeyU9sEx"
+        },
+        {
+          "team_id": 27,
+          "clue": "The Rack",
+          "latitude": 54.980327,
+          "longitude": -1.614329,
+          "has_been_found": 0,
+          "order": 4,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "WCnARtHI0PnWSM8ZtwydlzdE"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "current_treasure_index": 0,
+      "name": "team 06",
+      "score": 0,
+      "public_team_code": "b4WC",
+      "max_players": 99,
+      "active_treasure_hunt_id": 5,
+      "players": [],
+      "collectable_treasures": [
+        {
+          "team_id": 28,
+          "clue": " Claremont Tower",
+          "latitude": 54.980411,
+          "longitude": -1.614446,
+          "has_been_found": 0,
+          "order": 0,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "SbUyGsQcyRKKZhIOG4xI0vFC"
+        },
+        {
+          "team_id": 28,
+          "clue": "Library",
+          "latitude": 54.981112,
+          "longitude": -1.611618,
+          "has_been_found": 0,
+          "order": 1,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "kRjBr7CD7XDEgQ1i6LfH4b5D"
+        },
+        {
+          "team_id": 28,
+          "clue": "Students Union",
+          "latitude": 54.978969,
+          "longitude": -1.61491,
+          "has_been_found": 0,
+          "order": 2,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "HPIQAdfwypM6PiiUVA3nFih7"
+        },
+        {
+          "team_id": 28,
+          "clue": "Armstrong Building",
+          "latitude": 54.979754,
+          "longitude": -1.616625,
+          "has_been_found": 0,
+          "order": 3,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "nPWntiteAo22BxPrCeyU9sEx"
+        },
+        {
+          "team_id": 28,
+          "clue": "The Rack",
+          "latitude": 54.980327,
+          "longitude": -1.614329,
+          "has_been_found": 0,
+          "order": 4,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "WCnARtHI0PnWSM8ZtwydlzdE"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "current_treasure_index": 0,
+      "name": "team 07",
+      "score": 0,
+      "public_team_code": "Yz5k",
+      "max_players": 99,
+      "active_treasure_hunt_id": 5,
+      "players": [],
+      "collectable_treasures": [
+        {
+          "team_id": 29,
+          "clue": " Claremont Tower",
+          "latitude": 54.980411,
+          "longitude": -1.614446,
+          "has_been_found": 0,
+          "order": 0,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "SbUyGsQcyRKKZhIOG4xI0vFC"
+        },
+        {
+          "team_id": 29,
+          "clue": "Library",
+          "latitude": 54.981112,
+          "longitude": -1.611618,
+          "has_been_found": 0,
+          "order": 1,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "kRjBr7CD7XDEgQ1i6LfH4b5D"
+        },
+        {
+          "team_id": 29,
+          "clue": "Students Union",
+          "latitude": 54.978969,
+          "longitude": -1.61491,
+          "has_been_found": 0,
+          "order": 2,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "HPIQAdfwypM6PiiUVA3nFih7"
+        },
+        {
+          "team_id": 29,
+          "clue": "Armstrong Building",
+          "latitude": 54.979754,
+          "longitude": -1.616625,
+          "has_been_found": 0,
+          "order": 3,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "nPWntiteAo22BxPrCeyU9sEx"
+        },
+        {
+          "team_id": 29,
+          "clue": "The Rack",
+          "latitude": 54.980327,
+          "longitude": -1.614329,
+          "has_been_found": 0,
+          "order": 4,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "WCnARtHI0PnWSM8ZtwydlzdE"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "current_treasure_index": 0,
+      "name": "team 08",
+      "score": 0,
+      "public_team_code": "JhQz",
+      "max_players": 99,
+      "active_treasure_hunt_id": 5,
+      "players": [],
+      "collectable_treasures": [
+        {
+          "team_id": 30,
+          "clue": " Claremont Tower",
+          "latitude": 54.980411,
+          "longitude": -1.614446,
+          "has_been_found": 0,
+          "order": 0,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "SbUyGsQcyRKKZhIOG4xI0vFC"
+        },
+        {
+          "team_id": 30,
+          "clue": "Library",
+          "latitude": 54.981112,
+          "longitude": -1.611618,
+          "has_been_found": 0,
+          "order": 1,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "kRjBr7CD7XDEgQ1i6LfH4b5D"
+        },
+        {
+          "team_id": 30,
+          "clue": "Students Union",
+          "latitude": 54.978969,
+          "longitude": -1.61491,
+          "has_been_found": 0,
+          "order": 2,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "HPIQAdfwypM6PiiUVA3nFih7"
+        },
+        {
+          "team_id": 30,
+          "clue": "Armstrong Building",
+          "latitude": 54.979754,
+          "longitude": -1.616625,
+          "has_been_found": 0,
+          "order": 3,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "nPWntiteAo22BxPrCeyU9sEx"
+        },
+        {
+          "team_id": 30,
+          "clue": "The Rack",
+          "latitude": 54.980327,
+          "longitude": -1.614329,
+          "has_been_found": 0,
+          "order": 4,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "WCnARtHI0PnWSM8ZtwydlzdE"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "current_treasure_index": 0,
+      "name": "team 09",
+      "score": 0,
+      "public_team_code": "oNYY",
+      "max_players": 99,
+      "active_treasure_hunt_id": 5,
+      "players": [],
+      "collectable_treasures": [
+        {
+          "team_id": 31,
+          "clue": " Claremont Tower",
+          "latitude": 54.980411,
+          "longitude": -1.614446,
+          "has_been_found": 0,
+          "order": 0,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "SbUyGsQcyRKKZhIOG4xI0vFC"
+        },
+        {
+          "team_id": 31,
+          "clue": "Library",
+          "latitude": 54.981112,
+          "longitude": -1.611618,
+          "has_been_found": 0,
+          "order": 1,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "kRjBr7CD7XDEgQ1i6LfH4b5D"
+        },
+        {
+          "team_id": 31,
+          "clue": "Students Union",
+          "latitude": 54.978969,
+          "longitude": -1.61491,
+          "has_been_found": 0,
+          "order": 2,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "HPIQAdfwypM6PiiUVA3nFih7"
+        },
+        {
+          "team_id": 31,
+          "clue": "Armstrong Building",
+          "latitude": 54.979754,
+          "longitude": -1.616625,
+          "has_been_found": 0,
+          "order": 3,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "nPWntiteAo22BxPrCeyU9sEx"
+        },
+        {
+          "team_id": 31,
+          "clue": "The Rack",
+          "latitude": 54.980327,
+          "longitude": -1.614329,
+          "has_been_found": 0,
+          "order": 4,
+          "score": 10,
+          "found_time": null,
+          "qr_code": "WCnARtHI0PnWSM8ZtwydlzdE"
+        }
+      ]
+    }
+  ]
+}

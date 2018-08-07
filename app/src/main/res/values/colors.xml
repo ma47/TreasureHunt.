@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF00B1E5</color>
+    <color name="colorPrimaryDark">#FF272635</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="background_material_light">#FFFFFF</color>
+    <color name="navbar_color">#e6f3ff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="selector">#bec0c4</color>
+</resources>

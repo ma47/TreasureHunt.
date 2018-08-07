@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <!-- Order in which the buttons will be displayed -->
+
+
+    <item
+        android:id="@+id/navigation_leaderboard"
+        android:icon="@drawable/ic_leaderboard_black_24dp"
+        android:title="@string/title_leaderboard" />
+
+    <item
+        android:id="@+id/navigation_clue"
+        android:icon="@drawable/ic_clue_list_black_24dp"
+        android:title="@string/title_clue" />
+
+
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/ic_my_location_black_24dp"
+        android:title="@string/title_map" />
+
+    <item
+        android:id="@+id/navigation_qrScanner"
+        android:icon="@drawable/ic_qr_scann_black_24dp"
+        android:title="@string/title_scanner" />
+
+
+    <item
+        android:id="@+id/navigation_more"
+        android:icon="@drawable/ic_more_black_24dp"
+        android:title="@string/title_more" />
+
+</menu>

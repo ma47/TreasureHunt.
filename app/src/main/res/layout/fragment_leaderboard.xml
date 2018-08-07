@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context="com.example.team9.treasurehunt.LeaderboardFragment">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="7dp">
+
+        <TextView
+            android:id="@+id/nameTeam"
+            android:layout_width="0dp"
+            android:layout_weight=".65"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dip"
+            android:gravity="left"
+            android:text="Team name"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/scoreTeam"
+            android:layout_width="0dp"
+            android:layout_weight=".35"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dip"
+            android:text="Score"
+            android:textSize="25sp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <View style="@style/DividerFat"
+        android:layout_above="@+id/leaderboard_swipe_refresh"/>
+
+
+
+        <android.support.v4.widget.SwipeRefreshLayout
+            android:id="@+id/leaderboard_swipe_refresh"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@+id/linearLayout">
+
+            <ListView
+                android:id="@+id/list"
+                android:padding="8dp"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/linearLayout">
+            </ListView>
+
+        </android.support.v4.widget.SwipeRefreshLayout>
+
+
+</RelativeLayout>
+
+
